@@ -1,5 +1,7 @@
 # init-ai-bot
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/rickydunlop/init-ai-bot.svg)](https://greenkeeper.io/)
+
 ## Development
 
 See the [docs](http://docs.init.ai/reference/dev-server.html) for details on setting up the Dev Server.
